@@ -1,0 +1,222 @@
+﻿0
+1
+Vos Caractéristiques.
+Avant de vous lancer dans cette aventure, il vous faut d'abord
+déterminer vos propres forces et faiblesses. Vous avez en votre
+possession une épée, un sac à dos contenant des provisions
+(nourriture et boissons) et des torches qui pourront vous être
+utiles pour combattre les sombres terreurs du monde d'Orbus.
+Au bout de plusieurs semaines d'un entraînement intensif, vous
+maniez l'épée avec une adresse et une sûreté qui la rendent
+mortelle pour vos ennemis. Les dés vous permettront de
+connaître votre potentiel de force et de bonne fortune en vous
+donnant vos points d'ENDURANCE, d'HABILETÉ et de CHANCE
+Habileté, Endurance et Chance
+Lancez un dé. Ajoutez 6 au chiffre obtenu et vous avez ainsi votre
+HABILETÉ.
+Lancez ensuite deux dés. Ajoutez 12 au chiffre obtenu et
+avez ainsi votre ENDURANCE.
+Il existe également une caractéristique CHANCE. Lancez à nouveau un dé,
+ajoutez 6 au chiffre obtenu et avez ainsi votre
+CHANCE.
+Pour des raisons qui vous seront expliquées plus loin, les points
+d'HABILETÉ,d'ENDURANCEet de CHANCE changent
+constamment au cours de l'aventure. Bien que vous puissiez obtenir des points
+supplémentaires d'HABILETÉ,d'ENDURANCE et de CHANCE, ce
+total n'excédera jamais vos points de départ. Vos points
+d'HABILETÉ reflètent votre art dans le maniement de l'épée et
+votre adresse au combat en général ; puis ils sont élevés, mieux
+c'est. Vos points d'ENDURANCE traduisent votre force, votre
+volonté de survivre, votre détermination et votre forme physique
+et morale en général ; plus vos points d'ENDURANCEsont élevés,
+plus vous serez capable de survivre longtemps. Avec vos points
+de CHANCE, vous saurez si vous êtes naturellement chanceux ou
+malchanceux. La chance et la magie sont des réalités de la vie
+dans l'univers imaginaire que vous allez découvrir.
+@
+2
+Batailles
+Il vous sera souvent demandé, au long des pages de cette aventure, de
+combattre des créatures de toutes sortes. Parfois, vous aurez la
+possibilité de choisir la fuite, sinon - ou si vous décidez de toute
+façon de combattre -, il vous faudra mener la bataille comme suit
+:
+1 Le combat se déroule alors ainsi :
+1. Jetez les deux dés pour la créature. Ajoutez ses points
+d'HABILETÉ au chiffre obtenu. Ce total vous donnera la Force
+d'Attaque de la créature.
+2. Jetez les deux dés pour vous-même. Ajoutez le chiffre obtenu à
+vos propres points d'HABILETÉ. Ce total représente votre Force
+d'Attaque.
+Si votre Force d'Attaque est supérieure à celle de la créature,
+vous l'avez blessée. Passez à l'étape n° 4. Si la Force d'Attaque de
+la créature est supérieure à la vôtre, c'est elle qui vous a blessé.
+Passez à l'étape n° 5. Si les deux Forces d'Attaque sont égales,
+vous avez chacun esquivé les coups de l'autre - reprenez le
+combat en recommençant à l'étape n° 1.
+4. Vous avez blessé la créature, vous diminuez donc de2 points
+son ENDURANCE. Vous pouvez également vous servir de votre
+CHANCE pour lui faire plus de mal encore.
+5. La créature vous a blessé ; vous perdez alors 2 points à votre
+ENDURANCE.
+7. Commencez le deuxième Assaut (en reprenant les étapes de 1 à
+6). Vous poursuivrez ainsi l'ordre des opérations jusqu'à ce que
+vos points d'ENDURANCE ou ceux de la créature que vous
+combattez aient été réduits à zéro (mort).
+@
+3
+Combat avec plus d'une Créature
+Parfois, vous serez attaqué par plus d'un adversaire à la fois,
+hommes ou créatures. En ce cas, chacun de ces adversaires vous
+combattra séparément à chaque Assaut, mais vous devrez
+d'abord choisir, lors de chacun de ces Assauts, lequel vous
+souhaitez affronter en priorité ; vous combattrez l'adversaire
+ainsi choisi en observant les règles indiquées précédemment.
+Mais avec l'autre — ou les autres —, les règles sont quelque peu
+modifiées : en effet, lorsque vous calculerez vos Forces d'Attaque
+respectives, sachez que vous n'aurez infligé aucune blessure à
+l'ennemi si votre Force d'Attaque est supérieure à la sienne : vous
+aurez simplement esquivé le coup porté. En revanche, si la Force
+d'Attaque de celui que vous combattez ainsi dépasse la vôtre,
+vous aurez vous-même reçu une blessure à la manière habituelle.
+Lors de chaque Assaut, il n'y aura donc qu'un seul adversaire
+vulnérable à vos coups, celui que vous aurez choisi. Si le combat
+tourne en votre laveur et qu'il ne reste plus bientôt qu'un seul
+ennemi, le combat avec ce dernier se poursuivra bien entendu
+selon les règles classiques.
+@
+4
+Chance
+A plusieurs reprises au cours de votre aventure, lors de batailles
+ou dans des situations qui font intervenir la chance ou la
+malchance, vous aurez la possibilité de faire appel à votre
+chance pour essayer de rendre une issue plus favorable. Mais,
+attention, l'usage de la chance comporte de grands risques ! Et, si
+vous êtes malchanceux, les conséquences pourraient se révéler
+désastreuses.
+Voici comment on peut se servir de la chance : jetez deux dés. Si
+le chiffre obtenu est égal ou inférieur à vos points de
+CHANCE,vous êtes chanceux, et le résultat tournera en votre
+faveur. Si ce chiffre est supérieur à vos points de CHANCE, vous
+êtes malchanceux et vous serez pénalisé.
+Cette règle s'intitule : Tentez votre Chance. Chaque fois que vous
+Tenterez votre Chance, il vous faudra ôter 1 point à votre total de
+CHANCE.Ainsi, vous vous rendrez bientôt compte que plus vous
+vous fierez à votre chance, plus vous courrez de risques.
+Utilisation de la Chance dans les Combats :
+A certaines pages de l'aventure, il vous sera demandé de Tenter votre
+Chance et vous serez averti de ce qui vous arrivera selon que
+vous serez Chanceux ou Malchanceux. Lors des batailles,
+cependant, vous pourrez toujours choisir d'utiliser votre chance
+soit pour infliger une blessure plus grave à une créature que vous
+venez de blesser, soit pour minimiser les effets d'une blessure
+qu'une créature vient de vous infliger.
+Si vous venez de blesser une créature, vous pouvez Tenter votre
+Chance à la manière décrite plus haut. Si vous êtes Chanceux,
+vous avez infligé une blessure grave et vous pouvez ôter 2 points
+de plus au score d'ENDURANCE de la créature. Si vous êtes
+Malchanceux, cependant, la blessure n'était qu'une simple
+écorchure, et vous devez rajouter 1 point au score d'ENDURANCE
+de la créature (c'est-à-dire qu'au lieu d'enlever les 2 points
+correspondant à la blessure, vous n'aurez ôté que 1 seul point).
+Si la créature vient de vous blesser, vous pouvez Tenter votre
+Chance pour essayer de minimiser les effets du coup porté. Si
+vous êtes Chanceux, vous avez réussi à atténuer le coup. Rajoutez
+alors 1 point d'ENDURANCE (c'est-à-dire qu'au lieu de 2 points
+ôtés à cause de la blessure, vous n'aurez que 1 point en moins). Si
+vous êtes Malchanceux, le coup que vous avez pris était plus
+grave. Dans ce cas, enlevez encore 1 point à votre ENDURANCE (3
+au lieu de 2).
+Rappelez-vous que vous perdez 1 point de votre total de
+CHANCE chaque fois que vous Tentez votre Chance.
+@
+5
+Comment rétablir votre Habileté, votre Endurance et
+votre Chance
+Habileté
+Vos points d'HABILETÉ ne changeront pas beaucoup au cours de
+votre aventure. A l'occasion, il peut vous être demandé
+d'augmenter ou de diminuer votre score d'HABILETÉ. Une arme
+magique peut augmenter cette HABILETÉ. Vos points d'HABILETÉ ne
+peuvent jamais excéder leur total de départ. Boire la Potion
+d'Adresse (voir plus loin) vous permettra à tout moment de
+rétablir votre HABILETÉ à son niveau de départ.
+Endurance et Provisions
+Vos points d'ENDURANCE changeront beaucoup au cours de votre
+aventure en fonction des combats que vous aurez à livrer à des
+monstres ou des tâches ardues qu'il vous faudra accomplir.
+Lorsque vous approcherez du but, votre niveau
+d'ENDURANCE sera peut-être dangereusement bas et les combats
+se révéleront alors pleins de risques, aussi, soyez prudent ! Votre
+sac à dos contient suffisamment de Provisions pour dix repas.
+Vous pouvez vous reposer et manger à n’importe quel moment,
+hormis durant les combats. Un repas vous rend 4 points
+d'ENDURANCE. Quand vous prenez un repas, vous gagnez 4 points
+d'ENDURANCE.
+Rappelez-vous que vous avez un long chemin à parcourir, aussi,
+sachez utiliser vos Provisions avec prudence !
+Souvenez-vous également que vos points d'ENDURANCE ne
+peuvent jamais excéder leur niveau de départ. Boire la Potion de
+Vigueur (voir plus loin), rétablira à tout moment votre
+ENDURANCE à son niveau initial.
+Chance
+Vos points de CHANCE augmentent au cours de l'aventure
+lorsque vous êtes particulièrement chanceux. Les détails vous
+seront donnés au long des pages. Rappelez-vous que, comme
+pour l'ENDURANCE et l'HABILETÉ, vos points de CHANCE ne
+peuvent excéder leur niveau de départ que si vous recevez des
+instructions spécifiques à ce sujet. Boire la Potion de Bonne
+Fortune (voir plus loin) rétablira à tout moment votre CHANCE à
+son niveau initial et augmentera de 1 point votre CHANCE de
+départ.
+@
+6
+Équipement et Potions
+Au début de votre aventure, vous ne disposerez que d'un
+équipement minimal, mais vous pourrez trouver d'autres
+accessoires au cours de vos voyages. Vous êtes armé d'une épée
+et vêtu d'une armure de cuir. Vous portez sur vos épaules un sac
+à dos dans lequel vous rangerez vos provisions et les trésors que
+vous ramasserez.
+Par ailleurs, vous avez droit à une bouteille contenant une potion
+magique qui vous aidera dans votre quête. Vous aurez à choisir
+entre les trois potions suivantes :
+La Potion d'Adresse qui vous rend vos points d'HABILETÉ. La
+Potion de Vigueur qui vous rend vos points d'ENDURANCE. La
+Potion de Bonne Fortune qui vous rend vos points de chance en
+ajoutant 1 point à votre total de départ.
+Vous pouvez à tout moment boire l'une de ces potions au cours
+de votre aventure. En prenant une mesure de potion, vous
+retrouverez vos points d'HABILETÉ, d'ENDURANCEou de
+CHANCE tels qu'ils étaient à leur niveau initial (et la Potion de
+Bonne Fortune ajoutera 1 point au total de chance dont vous
+disposiez au départ).
+Rappelez-vous que vous n'avez droit qu'à une
+seule des trois potions : aussi, choisissez-la avec discernement !
+Pour vous aidez à explorer les grottes et les tunnels du monde
+d'Orbus, vous disposez de cinq torches ainsi que d'un silex et
+d'une mèche d'amadou. Ces cinq torches pourront également
+vous être utiles pour combattre les terreurs de la nuit ; alors,
+prenez-en autant soin que de votre vie elle-même !
+@
+7
+Indications sur le Jeu
+Il y a un bon chemin à trouver dans le mystérieux Monde
+d'ORBUS, et il vous faudra plusieurs tentatives pour le découvrir.
+Prenez des notes et dessinez une carte au fur et à mesure de votre
+exploration. Cette carte vous servira lors de prochaines aventures
+et vous permettra d'avancer plus rapidement pour atteindre des
+endroits encore inconnus.
+Les lieux que vous visiterez ne renferment pas tous un trésor.
+Certains recèlent des pièges ou tics monstres qui se révéleront
+sans aucun doute très dangereux. Vous prendrez parfois de
+mauvaises directions au cours de votre quête et même si vous
+progressez vers le but de votre voyage, il n'est pas certain pour
+autant que vous trouverez ce que vous cherchez.
+Il n'y a qu'un minimum de risques à prendre pour découvrir le
+bon chemin, et n'importe quel joueur, même si ses points de
+départ sont faibles, peut trouver très facilement la voie.
+Puisse la chance des dieux vous accompagner au long de votre
+aventure !
+@
+8
